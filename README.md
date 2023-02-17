@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[Learn Machine Learning and Computer Vision](https://github.com/SLIIT-FacultyOfComputing/itp_project-itp2021_s2_b05_g05/)**
 
-- 🌱 I’m currently learning **Mern Stack and TypeScript**
+- 🌱 I’m currently learning **Learn Deveops cycle and working project for the deveops tools practice**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and git vertion Control**
 
