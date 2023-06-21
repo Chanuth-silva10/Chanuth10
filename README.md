@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chanuth Maduka</h1>
-<h3 align="center">Problem solver, Leader, and a student who seeks opportunities to enhance and share knowledge in any way I can.</h3>
+<h4 align="center">Problem solver, Leader, and a student who seeks opportunities to enhance and share knowledge in any way I can.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanuth10&label=Profile%20views&color=0e75b6&style=flat" alt="chanuth10" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Learn Deveops Concepts and working project for the deveops tools practice**
 
-- 💬 Ask me about **Flutter , MERN**
+- 💬 Ask me about **DevOps , MERN**
 
 - 📫 How to reach me **kumaramaduka57@gmail.com**
 
