@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Project**
 
-- 🌱 I’m currently learning **Learn Deveops Concepts and working project for the deveops tools practice**
+- 🌱 I’m currently learning **Learn DevOps Concepts and working project for the DevOps tools practice**
 
 - 💬 Ask me about **DevOps , MERN**
 
