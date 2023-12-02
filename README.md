@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Learn DevOps Concepts and working project for the DevOps tools practice**
 
-- 💬 Ask me about **DevOps , MERN**
+- 💬 Ask me about **DevOps , MERN, MEAN, Spring boot**
 
-- 📫 How to reach me **kumaramaduka57@gmail.com**
+- 📫 How to reach me **chanuthmaduka1986@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
